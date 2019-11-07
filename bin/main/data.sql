@@ -1,0 +1,1 @@
+insert into item(id,name,description,price) values (200,'test123','test',5000);
